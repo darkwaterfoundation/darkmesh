@@ -1,0 +1,26 @@
+###########################################
+# Syntax Coloring Map For LLAPSerial
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+LLAPMesh      KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+available       KEYWORD2
+SerialEvent     KEYWORD2
+setLocalID      KEYWORD2
+setCoordinator  KEYWORD2
+getLocalID      KEYWORD2
+getRemoteID     KEYWORD2
+getBody         KEYWORD2
+sendMessage     KEYWORD2
+
+###########################################
+# Constants (LITERAL1)
+###########################################
